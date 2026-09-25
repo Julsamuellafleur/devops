@@ -14,8 +14,9 @@ def home():
 def about():
     return """
     <h1>About</h1>
+    <a href="https://python.com/">
     <a href="https://flask.palletsprojects.com/">
-        Flask website
+        Flask website and python website
     </a>
     """
 
